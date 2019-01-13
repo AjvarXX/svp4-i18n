@@ -2843,7 +2843,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="789"/>
         <source>Open file via mpv...</source>
-        <translation>Відкрити файл через  mpv...</translation>
+        <translation>Відкрити файл через mpv...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="960"/>
